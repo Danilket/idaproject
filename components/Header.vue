@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <nuxt-link to="/">
-      <img src="@/static/icons/logo.svg" alt="" class="header__logo" />
+      <img src="~/static/icons/logo.svg" alt="" class="header__logo" />
     </nuxt-link>
     <div class="header__text">World's first affordable airsharing</div>
     <div class="header__time-mode time-mode">

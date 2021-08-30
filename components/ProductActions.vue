@@ -70,6 +70,7 @@ export default {
     background: transparent;
     padding-right: 12px;
     color: $accent-color;
+    font-size: 40px;
   }
 
   &__new-product {
@@ -103,6 +104,7 @@ export default {
 
     &__choise {
       padding-right: 4px;
+      font-size: 24px;
     }
 
     &__add-text {
