@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "CodecPro";
+	font-style: bold;
+	font-weight: 700;
+	src: url("@/static/fonts/CodecPro-Bold.woff") format("woff");
+}
+@font-face {
+	font-family: "CodecPro";
+	font-style: normal;
+	font-weight: 300;
+	src: url("@/static/fonts/CodecPro-Light.woff") format("woff"),
+		url("@/static/fonts/CodecPro-Light.woff2") format("woff2");
+}
