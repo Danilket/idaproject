@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fidaproject\u002F_nuxt\u002Fstatic\u002F1630406976",layout:"header",error:a,state:{productInfo:{},vehicles:0,vehiclesLoading:b,vehiclesLoadingFailed:false},serverRendered:b,routePath:"\u002F",config:{_app:{basePath:"\u002Fidaproject\u002F",assetsPath:"\u002Fidaproject\u002F_nuxt\u002F",cdnURL:a}}}}(null,true));
